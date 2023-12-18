@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//halloooooooo
 #define MAX_SIZE 100
 
 // Function declarations
